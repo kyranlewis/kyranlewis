@@ -16,7 +16,7 @@ _Link_: https://github.com/kyranlewis/canada-fraud-data-analysis
 
 ### Super Mario 64 Speed Run Data Analysis (HTML / CSS / JavaScript)
 - Analyzed the differences in different categories and platform types used by players.
-- **KEY FINDING:** Number of players per platform type varied per category, making every category have a different story to tell.
+- **KEY FINDING:** Number of players per platform type varied per category, highlighting different trends in runner performance and popularity.
 
 _Link_: https://github.com/kyranlewis/sm64-speedrun-data-analysis
 
