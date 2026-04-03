@@ -10,11 +10,13 @@ I am currently seeking an entry-level Data Analyst opportunity where I can apply
 
 ### Canada Fraud Data Analysis (Python Jupyter Notebook)
 - Created visualizations with Python data analysis packages to answer questions I had about an Open Government Canada dataset.
+- **KEY FINDING:** Younger age groups (20s–40s) were higher-risk targets, while older groups achieved greater financial losses
 
 _Link_: https://github.com/kyranlewis/canada-fraud-data-analysis
 
 ### Super Mario 64 Speed Run Data Analysis (HTML / CSS / JavaScript)
 - Analyzed the differences in different categories and platform types used by players.
+- **KEY FINDING:** Number of players per platform type varied per category, making every category have a different story to tell.
 
 _Link_: https://github.com/kyranlewis/sm64-speedrun-data-analysis
 
