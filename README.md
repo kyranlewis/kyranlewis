@@ -1,5 +1,4 @@
-# Kyran Lewis  
-## Data Analyst  
+# Kyran Lewis, Data Analyst
 
 I am an aspiring Data Analyst with a passion for transforming raw data into clear, easy-to-understand insights.
 
