@@ -21,6 +21,6 @@ _Link_: https://github.com/kyranlewis/canada-fraud-data-analysis
 _Link_: https://github.com/kyranlewis/sm64-speedrun-data-analysis
 
 ### NHL Draft Data Filtration & Transformation
-- Program creates a sorted .csv dataset via criteria provided by the user.
-
+- Created a program that generates a sorted .csv dataset via criteria provided by the user.
+- **KEY FINDING:** Filtered datasets can improve the clarity of data analysis, allows for ease of use on what you are looking for.
 _Link_: https://github.com/kyranlewis/nhl-draft-data-filter
