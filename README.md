@@ -6,7 +6,7 @@ I primarily work with Python, using its data analysis libraries (Pandas, NumPy, 
 I am currently seeking an entry-level Data Analyst opportunity where I can apply my skills in data analysis, visualization, and problem-solving while continuing to grow as a data professional.
 
 
-## Projects
+## Analysis Projects
 
 ### Canada Fraud Data Analysis (Python Jupyter Notebook)
 - Created visualizations with Python data analysis packages to answer questions I had about an Open Government Canada dataset.
@@ -20,7 +20,7 @@ _Link_: https://github.com/kyranlewis/canada-fraud-data-analysis
 
 _Link_: https://github.com/kyranlewis/sm64-speedrun-data-analysis
 
-### NHL Draft Data Filtration & Transformation
+### NHL Draft Data Filtration & Transformation (Python)
 - Created a program that generates a sorted .csv dataset via criteria provided by the user.
 - **KEY FINDING:** Filtered datasets can improve the clarity of data analysis, allows for ease of use on what you are looking for.
 
